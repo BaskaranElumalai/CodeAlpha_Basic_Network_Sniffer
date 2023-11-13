@@ -1,11 +1,11 @@
 # CodeAlpha_Basic_Network_Sniffer
 This project is my Task1 as a cybersecurity intern at CodeAlpha. 
 
-Modules Requirements: 
-      ` 
-      socket 
-      struct
-      ```
+Module Requirements: 
+
+		. socket
+            . struct
+
 
 # Note:
 As some behaviors of the socket module depend on the operating system socket API and there is no
