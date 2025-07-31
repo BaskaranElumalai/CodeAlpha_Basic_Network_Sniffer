@@ -4,7 +4,7 @@ This project is my Task1 as a cybersecurity intern at CodeAlpha.
 Module Requirements: 
 
 		. socket
-            . struct
+               . struct
 
 
 # Note:
